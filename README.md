@@ -7,5 +7,5 @@
 - 💬 Ask me about ...
   JavaScript
 
-## I look forward to building the skills I need to work remotely as a developer
+*I look forward to building the skills I need to work remotely as a developer*
 
