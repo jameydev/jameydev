@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on ...
   The StoicWebDev site, an ecommerce app, Blogg0 (social media), a real-time chat application, and my professional portfolio
 - 🌱 I’m currently learning ...
   Next.js, Docker, Spring Boot
